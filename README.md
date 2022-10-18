@@ -1,6 +1,6 @@
 - 👋 Hi, I’m deshansh 
 - 👀 I’m interested in data science
-- 🌱 I’m currently learning - C++,ML,AI**
+- 🌱 I’m currently learning - Java,ML,Python,AI**
 - 📫 How to reach me  gmail- deshansh27@gmail.com
  [](https://mail.google.com/mail/u/1/#inbox)
 
